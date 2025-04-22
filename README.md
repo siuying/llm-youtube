@@ -4,7 +4,7 @@ LLM plugin for fetching YouTube video transcripts.
 
 ## Installation
 
-Install this plugin:
+Install this plugin in the same environment as [LLM](https://llm.datasette.io/en/stable/).
 
 ```bash
 llm install git+https://github.com/siuying/llm-youtube
